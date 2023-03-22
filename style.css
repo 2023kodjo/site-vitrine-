@@ -1,0 +1,174 @@
+html{
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: 100%;
+    height: 100%;
+}
+.s1, .s5, .s7 {
+    background-color: rgb(211, 214, 214);
+}
+.s3{
+    background-color: rgb(158, 156, 156);
+    margin-right: 500px;
+}
+.i2{
+    position: relative;
+    left: 650px;
+    top: 30px;
+}
+.i3{
+    position: relative;
+    right: 200px;
+}
+.i4{
+    position: relative;
+    left: 550px;
+}
+.s2{ 
+    display: flex;
+}
+.s4{
+    display: flex;
+    position: relative;
+    bottom: 400px;
+}
+.quot1{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    left: 3cm;
+
+
+}
+.quot{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: 450px;
+    left: 300px;
+}
+.s5{
+    display: flex;
+    position: relative;
+    bottom: 350px;
+    padding-bottom: 10cm;
+}
+.h1 {
+font-size: 220px; color: rgb(255, 253, 253);
+width: 1500px;
+margin-top: 50px;
+padding-left: 100px;
+}
+
+
+.h2 {
+padding-left: 200px;
+color: blue;
+font-size: 30px;
+}
+.h3 {
+color: blue;
+position: relative;
+bottom: 30px;
+left: 650px;
+font-size: 30px;
+}
+.h4{
+    color: blue;
+    font-size: 60px;
+    position: relative;
+    left: 270px;
+}
+.h5{
+    width: 2000px;
+    color: blue;
+    font-size: 50px;
+    position: relative;
+    left: 300px;
+}
+.h6{
+    position: relative;
+    bottom: -18cm;
+    right: 400px;
+    width: 1000px;
+
+}
+.p1 {
+    width: 850px;
+    line-height: 50px; 
+    font-size: 35px; 
+    color: blue; 
+    position: relative;
+    bottom:150px;
+    padding-left: 100px;
+}
+.p2 {
+    width: 550px;
+    text-align: justify;
+    position: relative;
+    bottom: 150px;
+    padding-left: 100px;
+}
+.p3{ 
+    width: 330px;
+    text-align: justify;
+    position: relative;
+    left: 200px;
+}
+.p4{
+    width: 330px;
+    text-align: justify;
+    position: relative;
+    left: 650px;
+    bottom: 30px;
+}
+.p5{
+    width: 500px;
+    text-align: justify;
+    position: relative;
+    left: 100px;
+}
+.p6{
+    text-align: justify;
+    position: relative;
+    left: 1000px;
+    bottom: 500px;
+    font-size:30px;
+}
+.p7{
+    width: 350px;
+    text-align: justify;
+    position: relative;
+    left: 350px;
+}
+.p8{
+    width: 350px;
+    text-align: justify;
+    position: relative;
+    left: 250px;
+}
+.df{
+    text-align: center;
+   position: relative; 
+    top: 50px;
+}
+.d1{
+    padding-left: 500px;
+}
+.d2{
+    padding-left:100px;
+    position: relative;
+    top: 100px;
+}
+.d3{
+    padding-left:100px;
+    position: relative;   
+}
+.d4{
+  background-color: blue;
+  width: 150px;
+  height: 250px;
+  position: relative;
+  left: 833px;
+  bottom: 512px;
+}
