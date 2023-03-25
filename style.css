@@ -5,10 +5,10 @@ html{
     height: 100%;
 }
 .s1, .s5, .s7 {
-    background-color: rgb(211, 214, 214);
+    background-color: #d9d9d9;
 }
 .s3{
-    background-color: rgb(158, 156, 156);
+    background-color: #d9d9d9;
     margin-right: 500px;
 }
 .i2{
@@ -35,36 +35,35 @@ html{
 .quot1{
     width: 90px;
     height: 90px;
-    position: relative;
-    left: 3cm;
-
-
+    padding-left:  250px;
 }
 .quot{
     width: 90px;
     height: 90px;
-    position: relative;
-    top: 450px;
-    left: 300px;
+    padding-left: 1000px;
 }
 .s5{
-    display: flex;
-    position: relative;
-    bottom: 350px;
-    padding-bottom: 10cm;
+    height: 700px;
+    margin-top: -350px;
+}
+.s8{
+    height: 700px;
+    background-color: #d9d9d9;
+    margin-top: 10px;
 }
 .h1 {
-font-size: 220px; color: rgb(255, 253, 253);
+font-size: 200px; color: rgb(255, 253, 253);
 width: 1500px;
 margin-top: 50px;
 padding-left: 100px;
+font-family: 'Open Sans',sans-serif !important;
 }
-
 
 .h2 {
 padding-left: 200px;
 color: blue;
 font-size: 30px;
+font-family: 'Open Sans',sans-serif !important;
 }
 .h3 {
 color: blue;
@@ -72,26 +71,60 @@ position: relative;
 bottom: 30px;
 left: 650px;
 font-size: 30px;
+font-family: 'Open Sans',sans-serif !important;
 }
 .h4{
     color: blue;
     font-size: 60px;
     position: relative;
     left: 270px;
+    font-family: 'Open Sans',sans-serif !important;
 }
 .h5{
-    width: 2000px;
-    color: blue;
     font-size: 50px;
-    position: relative;
-    left: 300px;
+    color: blue;
+    margin-left: 250px;
+    font-family: 'Open Sans',sans-serif !important;
 }
 .h6{
+   text-align: center;
+   font-family: 'Open Sans',sans-serif !important;
+}
+.h7{
+    color: blue;
+    font-size: 4.5rem;
+    font-weight: 700;
+    font-family: 'Open Sans',sans-serif !important;
+    padding-left: 250px;
+}
+.h8{
+    font-size: 180px; color: rgb(255, 253, 253);
+    width: 1500px;
+    margin-top: 50px;
+    padding-left: 100px;
+    font-family: 'Open Sans',sans-serif !important;
+}
+.h9{
+    font-size: 33px;
+    position: relative; 
+    bottom:150px;
+    left: 100px;
+    color: blue;
+    font-family: 'Open Sans',sans-serif !important;
+}
+.h10{
+    width: 550px;
+    color: blue;
+    font-size: 4.5rem;
+    font-family: 'Open Sans',sans-serif !important;
+}
+.h11{
+    color: blue;
+    font-size:45px;
+    font-family: 'Open Sans',sans-serif !important;
     position: relative;
-    bottom: -18cm;
-    right: 400px;
-    width: 1000px;
-
+    top: -300px;
+    left: 215px;
 }
 .p1 {
     width: 850px;
@@ -135,6 +168,12 @@ font-size: 30px;
     bottom: 500px;
     font-size:30px;
 }
+.pp{
+    font-size: 60px;
+    position: relative;
+    left: 1100px;
+    top: -530px;
+}
 .p7{
     width: 350px;
     text-align: justify;
@@ -146,6 +185,48 @@ font-size: 30px;
     text-align: justify;
     position: relative;
     left: 250px;
+}
+.p9{
+position: relative;
+bottom: 150px;
+left:110px;
+}
+.p10{
+    width: 550px;
+    text-align: justify;
+    position: relative;
+    top: -120px;
+    left: 100px;
+    font-size: 22px;
+    font-family: 'Open Sans',sans-serif !important;
+}
+.p11{
+    width: 550px;
+    text-align: justify;
+    position: relative;
+    top: -350px;
+    left: 700px;
+    font-size: 22px;
+    font-family: 'Open Sans',sans-serif !important;
+}
+.dv{
+    height: 30px;
+    width: 100px;
+ background-color: blue;
+ position: relative;
+ top: -360px;
+ left: 700px;
+}
+.bouton{
+    color: rgb(250, 250, 251);
+    padding-left: 10px;
+}
+.line{
+    width: 1200px;
+    height: 2px;
+   background-color: rgb(254, 255, 255);
+   position: relative;
+   top: -135px;
 }
 .df{
     text-align: center;
@@ -171,4 +252,153 @@ font-size: 30px;
   position: relative;
   left: 833px;
   bottom: 512px;
+}
+.d5{
+    display: flex;
+    margin-left: 200px; 
+}
+.d8{
+    position: relative;
+    top: 5px;
+    left: 120px;
+}
+.d9{
+    width: 500px;
+    height: 220px;
+    background-color: #d9d9d9;
+    margin-left: 700px;
+    padding-top: 300px;
+    padding-bottom: -200px;
+    position: relative;
+    top: -350px;
+}
+.l1{
+    padding-left: 150px;
+    color: #b3b3b3 !important;
+    position: relative;
+    bottom: 10px;
+}
+.l2{
+    padding-left: 450px;
+    color: #b3b3b3 !important;
+}
+.l3{
+    padding-left:100px;
+    font-size: 2.25rem;
+    text-transform: none;
+    font-weight: 700;
+    font-family: 'Open Sans',sans-serif !important;
+    position: relative;
+    bottom: 10px;
+}
+.l4{
+    padding-left: 350px;
+    font-size: 2.25rem;
+    text-transform: none;
+    font-weight: 700px;
+    font-family: 'Open Sans',sans-serif !important;
+}
+.l5{
+    padding-left: 50px;
+    color: #b3b3b3 !important;
+    position: relative;
+    bottom: 10px;
+}
+.l6{
+    padding-left: 350px;
+    color: #b3b3b3 !important;
+}
+.d7{
+    margin-left:850px ;
+}.d6{
+    margin-left: 250px;
+    position: relative;
+    top: 50px;
+}
+.s9{
+    height: 720px;
+}
+.i5{
+    border-radius:50% 50%;
+    position: relative;
+    top: -270px;
+    left:150px ;
+}
+.da{
+    position: relative;
+    top: -330px;
+    left: 170px;
+}
+.line2{
+    width: 200px;
+    height: 10px;
+   background-color: rgb(16, 17, 17);
+   position: relative;
+   right: 160px;
+}
+.a2{
+position: relative;
+right: 20px;
+}
+.a3{
+    position: relative;
+    right: 30px;
+}
+.a4{
+    position: relative;
+    left: 30px;
+
+}
+.footer{
+    background-color: rgb(42, 41, 41);
+    height: 250px;
+}
+.f1{
+color: white;
+position: relative;
+left: 430px;
+bottom: -70px;
+}
+.f2{
+color: white;
+position: relative;
+left: 550px;
+bottom: -60px;
+}
+.f3{
+position: relative;
+left: 450px;
+bottom: -100px;
+color:white;
+}
+.dm{
+    height: 55px;
+    width: 250px;
+ background-color: blue;
+ position: relative;
+ top: -40px;
+ left: 205px;
+}
+.mission{
+    color: white;
+    position: relative;
+    left: 80px;
+    top: 10px;
+}
+.pro1{
+    border-radius: 50% 50%;
+    position: relative;
+    left: 100px;
+    top:380px ;
+}
+.pro2{
+    border-radius: 50% 50%;
+    position: relative;
+    left: 350px;
+    top: 390px;
+
+}
+.s6{
+    height: 700px;
+    margin-top: -200px;
 }
